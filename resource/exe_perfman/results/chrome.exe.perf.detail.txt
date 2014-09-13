@@ -1,0 +1,7 @@
+\Process(chrome.exe)\ID Process
+\Process(chrome.exe)\Handle Count
+\Process(chrome.exe)\Thread count
+\Process(chrome.exe)\Working Set
+\Process(chrome.exe)\% Processor Time
+\Process(chrome.exe)\private Bytes
+Time                     ID Process          Handle Count        Thread count        Working Set         % Processor Time    private Bytes

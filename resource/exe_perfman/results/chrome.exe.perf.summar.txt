@@ -1,0 +1,7 @@
+记录项                                  峰值                均值                统计次数
+\Process(chrome.exe)\ID Process         0                   0                   0
+\Process(chrome.exe)\Handle Count       0                   0                   0
+\Process(chrome.exe)\Thread count       0                   0                   0
+\Process(chrome.exe)\Working Set        0M                  0M                  0
+\Process(chrome.exe)\% Processor Time   0.00                0.00                0
+\Process(chrome.exe)\private Bytes      0                   0                   0

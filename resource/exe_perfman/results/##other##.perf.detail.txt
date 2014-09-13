@@ -1,0 +1,4 @@
+\Network Interface(Broadcom BCM5708C NetXtreme II GigE [NDIS VBD Client] _2)\Bytes Received/sec
+\Network Interface(Broadcom BCM5708C NetXtreme II GigE [NDIS VBD Client] _2)\Bytes Sent/sec
+\Network Interface(Broadcom BCM5708C NetXtreme II GigE [NDIS VBD Client] _2)\Bytes Total/sec
+Time                     Bytes Received/sec  Bytes Sent/sec      Bytes Total/sec

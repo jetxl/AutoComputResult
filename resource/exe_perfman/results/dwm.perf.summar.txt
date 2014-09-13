@@ -1,0 +1,7 @@
+记录项                                  峰值                均值                统计次数
+\Process(dwm)\ID Process                1164                1164                40
+\Process(dwm)\Handle Count              155                 154                 40
+\Process(dwm)\Thread count              5                   5                   40
+\Process(dwm)\Working Set               71M                 71M                 40
+\Process(dwm)\% Processor Time          12.37               2.02                39
+\Process(dwm)\private Bytes             32702464            32697002            39

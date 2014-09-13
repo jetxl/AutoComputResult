@@ -1,0 +1,7 @@
+记录项                                  峰值                均值                统计次数
+\Process(ses)\ID Process                0                   0                   0
+\Process(ses)\Handle Count              0                   0                   0
+\Process(ses)\Thread count              0                   0                   0
+\Process(ses)\Working Set               0M                  0M                  0
+\Process(ses)\% Processor Time          0.00                0.00                0
+\Process(ses)\private Bytes             0                   0                   0

@@ -1,0 +1,1 @@
+perfman -k -n core

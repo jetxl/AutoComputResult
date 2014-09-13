@@ -1,0 +1,4 @@
+记录项                        峰值                均值                统计次数
+Bytes Received/sec            0.00                0.00                0
+Bytes Sent/sec                0.00                0.00                0
+Bytes Total/sec               0.00                0.00                0

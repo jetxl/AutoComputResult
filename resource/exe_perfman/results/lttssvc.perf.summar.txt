@@ -1,0 +1,7 @@
+记录项                                  峰值                均值                统计次数
+\Process(lttssvc)\ID Process            0                   0                   0
+\Process(lttssvc)\Handle Count          0                   0                   0
+\Process(lttssvc)\Thread count          0                   0                   0
+\Process(lttssvc)\Working Set           0M                  0M                  0
+\Process(lttssvc)\% Processor Time      0.00                0.00                0
+\Process(lttssvc)\private Bytes         0                   0                   0

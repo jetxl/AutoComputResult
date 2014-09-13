@@ -1,0 +1,7 @@
+记录项                                  峰值                均值                统计次数
+\Process(##whole##)\ID Process          1164                1164                40
+\Process(##whole##)\Handle Count        155                 154                 40
+\Process(##whole##)\Thread count        5                   5                   40
+\Process(##whole##)\Working Set         71M                 71M                 40
+\Process(##whole##)\% Processor Time    12.37               1.97                40
+\Process(##whole##)\private Bytes       32702464            31879577            40

@@ -1,0 +1,7 @@
+\Process(lttssvc)\ID Process
+\Process(lttssvc)\Handle Count
+\Process(lttssvc)\Thread count
+\Process(lttssvc)\Working Set
+\Process(lttssvc)\% Processor Time
+\Process(lttssvc)\private Bytes
+Time                     ID Process          Handle Count        Thread count        Working Set         % Processor Time    private Bytes
