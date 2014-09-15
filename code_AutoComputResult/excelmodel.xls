@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:x="urn:schemas-microsoft-com:office:excel" xmlns="http://www.w3.org/TR/REC-html40">
+<head>
+	<title>exceltest</title>
+	<meta charset="utf-8"/>
+	<!--[if gte mso 9]>
+    <xml>
+        <x:ExcelWorkbook>
+            <x:ExcelWorksheets>
+                <x:ExcelWorksheet>
+                    <x:Name>test</x:Name>
+                    <x:WorksheetOptions>
+                        <x:Selected/>
+                    </x:WorksheetOptions>
+                </x:ExcelWorksheet>
+                <x:ExcelWorksheet>
+                    <x:Name>test2</x:Name>
+                    <x:WorksheetOptions>
+                        <x:Selected/>
+                    </x:WorksheetOptions>
+                </x:ExcelWorksheet>
+            </x:ExcelWorksheets>
+        </x:ExcelWorkbook>
+    </xml>
+    <![endif]-->
+	<style type="text/css">
+	.tablestyle{
+		text-align:center;
+		vertical-align: middle;
+		font-size:13px;
+		padding-top:5px;
+		padding-bottom:5px;	
+	}
+	.title{
+		background-color:rgb(0, 204, 255);
+	}
+	</style>
+</head>
+<body>
+<table border="1px" class="tablestyle">
+	<tr>
+		<td class="title" rowspan="2">并发路数</td>
+		<td class="title" rowspan="2">吞吐量[(Sent)/sec]</td>
+		<td class="title" rowspan="2">CPU占用%</td>
+		<td class="title" rowspan="2">物理内存占用M</td>
+		<td class="title" rowspan="2">虚拟内存占用M</td>
+		<th style="font-weight:500;" class="title" colspan="3">响应时间[ms]</th>
+		<th style="font-weight:500;" class="title" colspan="4">响应时间分布</th>
+	</tr>
+	<tr>
+		<td class="title">最大响应时间</td>
+		<td class="title">最小响应时间</td>
+		<td class="title">平均响应时间</td>
+		<td class="title">[0.0,0.1]</td>
+		<td class="title">(0.1,0.2]</td>
+		<td class="title">(0.2,0.3]</td>
+		<td class="title">(0.3,100.0]</td>
+	</tr>
+	<tr align="center">
+		<td>1.0100</td>
+		<td>1.0100</td>
+		<td>1.0100</td>
+		<td>1.0100</td>
+		<td>1.0100</td>
+		<td>1.0100</td>
+		<td>1.0100</td>
+		<td>1.0100</td>
+		<td>1.0100</td>
+		<td>1.0100</td>
+		<td>1.0100</td>
+		<td>1.0100</td>
+	</tr>
+
+</table>
+
+</body>
+</html>
+
+
